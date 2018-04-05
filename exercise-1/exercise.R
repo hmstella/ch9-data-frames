@@ -2,7 +2,7 @@
 
 # Create a vector of the number of points the Seahawks scored in the first 4 games
 # of the season (google "Seahawks" for the scores!)
-
+points <- c(9,12,14,17)
 
 # Create a vector of the number of points the Seahwaks have allowed to be scored
 # against them in each of the first 4 games of the season
