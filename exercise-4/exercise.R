@@ -30,6 +30,7 @@ largest_grant <- max(grants$total_amount)
 smallest_grant <- min(grants$total_amount)
 
 # Which organization received the largest grant?
+    # use the index number of the vector just made "organization"
 receive_largest <- organization[grants$total_amount == largest_grant]
 
 # Which organization received the smallest grant?
